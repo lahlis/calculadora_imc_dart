@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Repositório com a solução do desafio de projeto "Criando uma calculadora de IMC com Flutter", atividade do bootcamp da DIO: "Santander Bootcamp 2023 - Mobile com Flutter"
